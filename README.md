@@ -14,3 +14,6 @@ Career is under [SIL Open Font License (OFL)](http://scripts.sil.org/cms/scripts
 
 
 ![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/master/ScreenShot/Capture%20du%202014-07-29%2020:22:41.png)
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/master/ScreenShot/Capture%20du%202014-07-29%2020:40:21.png)
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/master/ScreenShot/Capture%20du%202014-07-29%2020:36:10.png)
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/master/ScreenShot/Capture%20du%202014-07-29%2020:39:27.png)
