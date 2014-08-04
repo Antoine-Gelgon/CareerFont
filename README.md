@@ -10,9 +10,13 @@
   /font-files -> are the project files (UFO, TTF, OTF..)
 
 a list of fonts in the same style
+
       times-new-roman (http://www.myfonts.com/fonts/mti/times-new-roman/ps-bold/)
+      
       valencia-serial (http://www.myfonts.com/fonts/softmaker/valencia-serial/xbold/)
+      
       positype (http://www.myfonts.com/fonts/positype/lust/display/)
+      
       caslon-fina-stencil (http://www.myfonts.com/fonts/ef/caslon-fina-stencil/ef-black-rough/)
       
 ## License
