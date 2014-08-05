@@ -4,38 +4,29 @@
   <unicode hex="0062"/>
   <outline>
     <contour>
-      <point x="232" y="108" type="line"/>
-      <point x="227" y="59"/>
-      <point x="262" y="20"/>
-      <point x="336" y="-4" type="curve"/>
-      <point x="242" y="-4"/>
-      <point x="201" y="43"/>
-      <point x="201" y="43" type="curve"/>
-      <point x="146" y="100"/>
-      <point x="102" y="-4"/>
+      <point x="10" y="739" type="line"/>
+      <point x="104,842" y="754,807"/>
+      <point x="157,605" y="759,898"/>
+      <point x="224" y="801" type="curve"/>
+      <point x="231" y="800" type="line"/>
+      <point x="232" y="101" type="line"/>
+      <point x="227" y="52"/>
+      <point x="262" y="13"/>
+      <point x="336" y="-11" type="curve"/>
+      <point x="223" y="-11"/>
+      <point x="210,667" y="52,9966"/>
+      <point x="161" y="53" type="curve" smooth="yes"/>
+      <point x="127,333" y="53"/>
+      <point x="102" y="-2,33333"/>
       <point x="102" y="-4" type="curve"/>
       <point x="95" y="0" type="line"/>
       <point x="97" y="620" type="line" smooth="yes"/>
-      <point x="97" y="651"/>
-      <point x="89" y="676"/>
-      <point x="73" y="695" type="curve" smooth="yes"/>
-      <point x="58" y="714"/>
-      <point x="37" y="727"/>
+      <point x="97" y="682,313"/>
+      <point x="61,9821" y="721,448"/>
       <point x="10" y="733" type="curve"/>
-      <point x="10" y="739" type="line"/>
-      <point x="52" y="746"/>
-      <point x="82" y="751"/>
-      <point x="98" y="754" type="curve" smooth="yes"/>
-      <point x="114" y="757"/>
-      <point x="134" y="762"/>
-      <point x="157" y="770" type="curve" smooth="yes"/>
-      <point x="181" y="778"/>
-      <point x="203" y="788"/>
-      <point x="224" y="801" type="curve"/>
-      <point x="231" y="800" type="line"/>
     </contour>
     <contour>
-      <point x="166" y="108" type="move" smooth="yes"/>
+      <point x="166" y="107" type="move" smooth="yes"/>
     </contour>
     <contour>
       <point x="392" y="511" type="curve" smooth="yes"/>
@@ -43,11 +34,11 @@
       <point x="588" y="401"/>
       <point x="588" y="271" type="curve" smooth="yes"/>
       <point x="588" y="119"/>
-      <point x="487" y="-3"/>
-      <point x="335" y="-3" type="curve" smooth="yes"/>
-      <point x="252" y="-3"/>
-      <point x="201" y="54"/>
-      <point x="202" y="142" type="curve" smooth="yes"/>
+      <point x="488" y="-11"/>
+      <point x="336" y="-11" type="curve" smooth="yes"/>
+      <point x="253" y="-11"/>
+      <point x="201" y="47"/>
+      <point x="202" y="135" type="curve" smooth="yes"/>
       <point x="203" y="261" type="line"/>
       <point x="203" y="429"/>
       <point x="240" y="511"/>
@@ -55,9 +46,9 @@
     <contour>
       <point x="232" y="255" type="curve" smooth="yes"/>
       <point x="232" y="141"/>
-      <point x="221" y="19"/>
-      <point x="334" y="19" type="curve" smooth="yes"/>
-      <point x="407" y="19"/>
+      <point x="221" y="12"/>
+      <point x="334" y="12" type="curve" smooth="yes"/>
+      <point x="407" y="12"/>
       <point x="443" y="89"/>
       <point x="443" y="230" type="curve" smooth="yes"/>
       <point x="443" y="328"/>
@@ -74,12 +65,16 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>-4</integer>
-	    <key>width</key>	    <integer>24</integer>
+	    <key>position</key>	    <integer>-11</integer>
+	    <key>width</key>	    <integer>23</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>460</integer>
 	    <key>width</key>	    <integer>51</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>733</integer>
+	    <key>width</key>	    <integer>6</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
@@ -92,13 +87,13 @@
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>203</integer>
+	    <integer>202</integer>
 	    <key>width</key>
 	    <integer>30</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>444</integer>
+	    <integer>443</integer>
 	    <key>width</key>
 	    <integer>145</integer>
 	  </dict>

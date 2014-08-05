@@ -7,7 +7,7 @@
       <point x="234" y="159" type="line"/>
       <point x="149" y="17"/>
       <point x="253" y="8"/>
-      <point x="253" y="8" type="curve" smooth="yes"/>
+      <point x="253" y="8" type="curve"/>
       <point x="253" y="0" type="line"/>
       <point x="165" y="10"/>
       <point x="80" y="10"/>
@@ -21,7 +21,7 @@
       <point x="352" y="343" type="line"/>
       <point x="437" y="466"/>
       <point x="323" y="495"/>
-      <point x="323" y="495" type="curve" smooth="yes"/>
+      <point x="323" y="495" type="curve"/>
       <point x="323" y="503" type="line"/>
       <point x="411" y="492"/>
       <point x="496" y="492"/>
@@ -46,22 +46,22 @@
       <point x="334" y="8" type="line"/>
       <point x="349" y="12" type="line" smooth="yes"/>
       <point x="369" y="17"/>
-      <point x="377" y="38"/>
+      <point x="376,266" y="37,4355"/>
       <point x="361" y="58" type="curve" smooth="yes"/>
-      <point x="70" y="446" type="line" smooth="yes"/>
-      <point x="55" y="466"/>
-      <point x="42" y="483"/>
-      <point x="25" y="487" type="curve"/>
-      <point x="10" y="492" type="line"/>
-      <point x="10" y="500" type="line"/>
-      <point x="98" y="489"/>
-      <point x="182" y="489"/>
-      <point x="264" y="500" type="curve"/>
-      <point x="264" y="492" type="line"/>
-      <point x="249" y="487" type="line"/>
-      <point x="228" y="482"/>
-      <point x="219" y="467"/>
-      <point x="237" y="442" type="curve" smooth="yes"/>
+      <point x="70" y="450" type="line" smooth="yes"/>
+      <point x="55" y="470"/>
+      <point x="42" y="487"/>
+      <point x="25" y="491" type="curve"/>
+      <point x="10" y="496" type="line"/>
+      <point x="10" y="504" type="line"/>
+      <point x="98" y="493"/>
+      <point x="182" y="493"/>
+      <point x="264" y="504" type="curve"/>
+      <point x="264" y="496" type="line"/>
+      <point x="249" y="491" type="line"/>
+      <point x="228" y="486"/>
+      <point x="219" y="471"/>
+      <point x="237" y="446" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -73,6 +73,10 @@
 	  <dict>
 	    <key>position</key>	    <integer>0</integer>
 	    <key>width</key>	    <integer>8</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>491</integer>
+	    <key>width</key>	    <integer>13</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>495</integer>

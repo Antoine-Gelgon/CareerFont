@@ -11,7 +11,7 @@
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>xHeight</key>
-	<integer>523</integer>
+	<integer>526</integer>
 	<key>capHeight</key>
 	<integer>807</integer>
 	<key>ascender</key>
@@ -23,7 +23,7 @@
 	<key>note</key>
 	<string>2014-5-9: Created.</string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/06/29 17:27:40</string>
+	<string>2014/07/04 00:39:39</string>
 	<key>openTypeNameVersion</key>
 	<string>Version 001.000</string>
 	<key>postscriptFontName</key>

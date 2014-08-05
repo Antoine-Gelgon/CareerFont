@@ -1,5 +1,6 @@
 
-@GDEF_Simple = [\a \o \r \d \s \e \space \n \f \c \p \b \g \t \m \i \h \l \q \j \u \v \w \x \y \T \L \H ];
+@GDEF_Simple = [\a \o \r \d \s \e \space \n \f \c \p \b \g \t \m \i \h \l \q \j \u \v \w \x \y \T \L \H 
+	\k \less \plus ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;
