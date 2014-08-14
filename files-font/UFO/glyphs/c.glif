@@ -6,9 +6,9 @@
     <contour>
       <point x="329" y="368" type="curve"/>
       <point x="350" y="465"/>
-      <point x="304" y="493"/>
-      <point x="270" y="492" type="curve"/>
-      <point x="88" y="492"/>
+      <point x="304" y="494"/>
+      <point x="270" y="493" type="curve"/>
+      <point x="88" y="493"/>
       <point x="112" y="90"/>
       <point x="336" y="90" type="curve" smooth="yes"/>
       <point x="373" y="90"/>
@@ -22,9 +22,9 @@
       <point x="10" y="100"/>
       <point x="10" y="249" type="curve"/>
       <point x="11" y="397"/>
-      <point x="125" y="509"/>
-      <point x="272" y="509" type="curve" smooth="yes"/>
-      <point x="394" y="509"/>
+      <point x="125" y="510"/>
+      <point x="272" y="510" type="curve" smooth="yes"/>
+      <point x="394" y="510"/>
       <point x="461" y="407"/>
       <point x="461" y="330" type="curve" smooth="yes"/>
       <point x="461" y="268"/>
@@ -45,7 +45,7 @@
 	    <key>width</key>	    <integer>100</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>492</integer>
+	    <key>position</key>	    <integer>493</integer>
 	    <key>width</key>	    <integer>17</integer>
 	  </dict>
 	</array>

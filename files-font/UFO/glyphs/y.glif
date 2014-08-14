@@ -75,6 +75,10 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
+	    <key>position</key>	    <integer>-138</integer>
+	    <key>width</key>	    <integer>82</integer>
+	  </dict>
+	  <dict>
 	    <key>position</key>	    <integer>487</integer>
 	    <key>width</key>	    <integer>13</integer>
 	  </dict>

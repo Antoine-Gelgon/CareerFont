@@ -11,9 +11,9 @@
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>xHeight</key>
-	<integer>523</integer>
+	<integer>500</integer>
 	<key>capHeight</key>
-	<integer>804</integer>
+	<integer>806</integer>
 	<key>ascender</key>
 	<integer>800</integer>
 	<key>descender</key>
@@ -26,6 +26,31 @@
 	<string>2014/07/04 00:39:39</string>
 	<key>openTypeNameVersion</key>
 	<string>Version 001.000</string>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WeightClass</key>
+	<integer>500</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>PfEd</string>
+	<key>openTypeOS2FamilyClass</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2Type</key>
+	<array>
+		<integer>3</integer>
+	</array>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>800</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>200</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>90</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>814</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>-138</integer>
 	<key>postscriptFontName</key>
 	<string>Career</string>
 	<key>postscriptFullName</key>
