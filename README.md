@@ -58,9 +58,8 @@ The central curves of the 's' have been modified. On the left is the new version
 ![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/02ccab9290cbeb23d8f71c05f627a29354cd226b/ScreenShot/Capture%20du%202014-08-14%2012:47:50.png)
 
 The endings of the 'u' are changed.
-![Specimen](https://github.com/Antoine-Gelgon/CareerFont/raw/02ccab9290cbeb23d8f71c05f627a29354cd226b/ScreenShot/Capture%20du%202014-08-14%2018:11:49.png?raw=true)
-![Specimen](https://github.com/Antoine-Gelgon/CareerFont/tree/02ccab9290cbeb23d8f71c05f627a29354cd226b/ScreenShot/Capture%20du%202014-08-14%2018:16:16.png)
+![Specimen](https://github.com/Antoine-Gelgon/CareerFont/tree/02ccab9290cbeb23d8f71c05f627a29354cd226b/ScreenShot/Capture%20du%202014-08-14%2013:29:30.png)
 
-Creation of R and C
-![Specimen](https://github.com/Antoine-Gelgon/CareerFont/tree/02ccab9290cbeb23d8f71c05f627a29354cd226b/ScreenShot/Capture%20du%202014-08-14%2018:16:16.png)
-![Specimen](https://github.com/Antoine-Gelgon/CareerFont/tree/02ccab9290cbeb23d8f71c05f627a29354cd226b/ScreenShot/Capture%20du%202014-08-14%2018:16:16.png)
+Creation of R and C.
+![Specimen](https://github.com/Antoine-Gelgon/CareerFont/raw/02ccab9290cbeb23d8f71c05f627a29354cd226b/ScreenShot/Capture%20du%202014-08-14%2018:11:49.png)
+![Specimen](https://github.com/Antoine-Gelgon/CareerFont/raw/02ccab9290cbeb23d8f71c05f627a29354cd226b/ScreenShot/Capture%20du%202014-08-14%2018:16:16.png)
