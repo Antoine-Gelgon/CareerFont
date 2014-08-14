@@ -37,3 +37,16 @@ letters adjusted to the correct height of x and o
 ![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/master/ScreenShot/Capture%20du%202014-08-04%2004:53:25.png)
 
 
+13/08/14
+
+
+Changing the 'v' and 'y'.
+
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/master/ScreenShot/Capture%20du%202014-08-13%2023:07:26.png)
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/master/ScreenShot/Capture%20du%202014-08-13%2023:37:07.png)
+
+
+Creation of B and P
+
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/master/ScreenShot/Capture%20du%202014-08-14%2001:52:22.png)
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/master/ScreenShot/Capture%20du%202014-08-14%2001:53:40.png)
