@@ -37,7 +37,7 @@ letters adjusted to the correct height of x and o
 ![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/master/ScreenShot/Capture%20du%202014-08-04%2004:53:25.png)
 
 
-13/08/14
+***13/08/14
 
 
 Changing the 'v' and 'y'.
