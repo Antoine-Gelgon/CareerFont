@@ -5,9 +5,9 @@
 
   /Sources -> Pdfs, jpgs, pngs, the model starting.
   
-  /letters-Bitmap -> are separate letters to the background layer.
+  /letters-bitmap -> are separate letters to the background layer.
   
-  /font-files -> are the project files (UFO, TTF, OTF..)
+  /files-font -> are the project files (UFO, TTF, OTF..)
 
 a list of fonts in the same style
 
