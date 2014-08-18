@@ -66,3 +66,16 @@ Creation of R and C.
 ![Specimen](https://github.com/Antoine-Gelgon/CareerFont/raw/02ccab9290cbeb23d8f71c05f627a29354cd226b/ScreenShot/Capture%20du%202014-08-14%2018:16:16.png)
 ![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/02ccab9290cbeb23d8f71c05f627a29354cd226b/ScreenShot/Capture%20du%202014-08-14%2018:18:21.png)
 ![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/02ccab9290cbeb23d8f71c05f627a29354cd226b/ScreenShot/Capture%20du%202014-08-14%2018:25:00.png)
+
+###15/08/14
+
+-Creation of the 'E' 'F' 'I' 'D' 'A' 'N'
+-Modification of the finestroke on the 'L'
+-Normalization of finestroke around 16 large for capitals.
+![Specimen](https://github.com/Antoine-Gelgon/CareerFont/raw/de72b394d7e4cc019e387731c5d0a1d15699779a/ScreenShot/Capture%20du%202014-08-15%2022:17:46.png)
+![Specimen](https://github.com/Antoine-Gelgon/CareerFont/raw/de72b394d7e4cc019e387731c5d0a1d15699779a/ScreenShot/Capture%20du%202014-08-15%2023:35:49.png)
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/de72b394d7e4cc019e387731c5d0a1d15699779a/ScreenShot/Capture%20du%202014-08-16%2000:40:47.png)
+![Specimen](https://github.com/Antoine-Gelgon/CareerFont/raw/de72b394d7e4cc019e387731c5d0a1d15699779a/ScreenShot/Capture%20du%202014-08-16%2000:48:12.png)
+![Specimen](https://github.com/Antoine-Gelgon/CareerFont/raw/de72b394d7e4cc019e387731c5d0a1d15699779a/ScreenShot/Capture%20du%202014-08-16%2000:57:41.png)
+![Specimen](https://github.com/Antoine-Gelgon/CareerFont/raw/de72b394d7e4cc019e387731c5d0a1d15699779a/ScreenShot/Capture%20du%202014-08-16%2000:59:47.png)
+
