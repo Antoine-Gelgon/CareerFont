@@ -81,7 +81,7 @@ Creation of R and C.
 
 ###18/08/14
 
--Creation of the 'O' 'Q' 'M' 'K'
+-Creation of the 'O' 'Q' 'M' 'K' 'S' 
 
 The final version is the frist on the left
 ![Specimen](https://github.com/Antoine-Gelgon/CareerFont/raw/c7b4aeae5734735b1299512a807f8fd9ab31332a/ScreenShot/Capture%20du%202014-08-18%2012:56:35.png)
