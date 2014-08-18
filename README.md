@@ -79,7 +79,7 @@ Creation of R and C.
 ![Specimen](https://github.com/Antoine-Gelgon/CareerFont/raw/de72b394d7e4cc019e387731c5d0a1d15699779a/ScreenShot/Capture%20du%202014-08-16%2000:57:41.png)
 ![Specimen](https://github.com/Antoine-Gelgon/CareerFont/raw/de72b394d7e4cc019e387731c5d0a1d15699779a/ScreenShot/Capture%20du%202014-08-16%2000:59:47.png)
 
-###15/08/14
+###18/08/14
 
 -Creation of the 'O' 'Q' 'M' 'K'
 
