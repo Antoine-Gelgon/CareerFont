@@ -79,3 +79,12 @@ Creation of R and C.
 ![Specimen](https://github.com/Antoine-Gelgon/CareerFont/raw/de72b394d7e4cc019e387731c5d0a1d15699779a/ScreenShot/Capture%20du%202014-08-16%2000:57:41.png)
 ![Specimen](https://github.com/Antoine-Gelgon/CareerFont/raw/de72b394d7e4cc019e387731c5d0a1d15699779a/ScreenShot/Capture%20du%202014-08-16%2000:59:47.png)
 
+###15/08/14
+
+-Creation of the 'O' 'Q' 'M' 'K'
+
+The final version is the frist on the left
+![Specimen](https://github.com/Antoine-Gelgon/CareerFont/raw/c7b4aeae5734735b1299512a807f8fd9ab31332a/ScreenShot/Capture%20du%202014-08-18%2012:56:35.png)
+![Specimen](https://github.com/Antoine-Gelgon/CareerFont/raw/c7b4aeae5734735b1299512a807f8fd9ab31332a/ScreenShot/Capture%20du%202014-08-18%2023:07:47.png)
+![Specimen](https://github.com/Antoine-Gelgon/CareerFont/raw/c7b4aeae5734735b1299512a807f8fd9ab31332a/ScreenShot/Capture%20du%202014-08-19%2000:36:43.png)
+![Specimen](https://github.com/Antoine-Gelgon/CareerFont/raw/c7b4aeae5734735b1299512a807f8fd9ab31332a/ScreenShot/Capture%20du%202014-08-19%2000:38:50.png)
