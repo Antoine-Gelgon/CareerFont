@@ -5,7 +5,7 @@ FamilyName: Career
 Weight: Medium
 Copyright: Created by Antoine Gelgon with FontForge 2.0 (http://fontforge.sf.net)\n\nUnder OpenFont License http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL\n
 UComments: "2014-5-9: Created." 
-FontLog: "FontLog Career Caslon+AAoACgAK-14/08/2014 : Antoine Gelgon+AAoA--Modified vector of 's'+AAoA--creation of the 'C' and 'R'+AAoACgAA-15/08/2014 : Antoine Gelgon+AAoA--Creation of the 'E' 'F' 'I' 'D' 'A' 'N'+AAoA--modification of the finestroke on the 'L'+AAoA--Normalization of finestroke around 16 large for capitals.+AAoACgAA-18/08/2014 : Antoine Gelgon+AAoA--Creation of the 'O' 'Q' 'M' 'K'+AAoACgAA-22/08/2014 : Antoine Gelgon+AAoA--Creation of the U V W+AAoA--Modification of the w v" 
+FontLog: "FontLog Career Caslon+AAoACgAK-14/08/2014 : Antoine Gelgon+AAoA--Modified vector of 's'+AAoA--creation of the 'C' and 'R'+AAoACgAA-15/08/2014 : Antoine Gelgon+AAoA--Creation of the 'E' 'F' 'I' 'D' 'A' 'N'+AAoA--modification of the finestroke on the 'L'+AAoA--Normalization of finestroke around 16 large for capitals.+AAoACgAA-18/08/2014 : Antoine Gelgon+AAoA--Creation of the 'O' 'Q' 'M' 'K'+AAoACgAA-22/08/2014 : Antoine Gelgon+AAoA--Creation of the U V W+AAoA--Modification of the w v+AAoACgAA-25/08/2014 : Antoine Gelgon+AAoA--Creation of the X Y G+AAoA--Modification f's drop.+AAoA--Optical modifications for O C Q S. these letters have been extended" 
 Version: 001.000
 ItalicAngle: 0
 UnderlinePosition: -100
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1407112779
-ModificationTime: 1408975990
+ModificationTime: 1408977176
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -51,7 +51,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 48 24 10
+WinInfo: 25 25 11
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -606,7 +606,7 @@ Encoding: 102 102 8
 Width: 354
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.fontlab.hintData'
 p2
@@ -1581,11 +1581,11 @@ LayerCount: 2
 Fore
 SplineSet
 271 120 m 6xf4
- 271 500 l 1
- 264 501 l 1
- 200 461 148 454 50 439 c 1
- 50 433 l 1
- 102 420 137 383 137 320 c 2
+ 271 500 l 5
+ 264 501 l 5
+ 200 461 148 454 50 439 c 5
+ 50 433 l 5
+ 102 420 137 383 137 320 c 6
  138 134 l 6
  138 78 184.341 34.333 184.341 -31.667 c 5
  178.625 -82.3678 143.228 -83.666 146 -83.666 c 5
@@ -2498,7 +2498,7 @@ EndChar
 
 StartChar: P
 Encoding: 80 80 31
-Width: 680
+Width: 624
 VWidth: 0
 Flags: W
 HStem: 0 8<11.5088 25.0352 357.757 371.509> 348.269 11.502<264.391 395.086> 783.014 16.986<279.077 406.424> 791.5 8<11.666 27.5577>
@@ -2536,7 +2536,7 @@ StartChar: C
 Encoding: 67 67 32
 Width: 726
 VWidth: 0
-Flags: HWO
+Flags: HW
 HStem: -15 17<331.925 452.026> 798 17<340.537 449.202>
 VStem: 0 189<271.147 537.068> 674.5 8.5<-4 16.0269 278.178 293.833 489 519.322 778.496 803>
 LayerCount: 2
@@ -3493,10 +3493,10 @@ EndChar
 
 StartChar: Y
 Encoding: 89 89 50
-Width: 823
+Width: 781
 VWidth: 0
-Flags: HW
-HStem: 1 7<204 216.932 549.336 564> 792 8<0 16.6511 344.882 360>
+Flags: W
+HStem: 1 7<204 216.932 549.336 564> 792 8<0 16.6511 344.882 360 809.443 828.5>
 VStem: 297 174<40.4903 436>
 LayerCount: 2
 Back
@@ -3531,15 +3531,15 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-371.501 263.5 m 13
- 359.25 278.25 l 21
- 586.5 640 l 6
- 673.52 778.522 574.854 792.48 574.5 792 c 5
- 574.5 800 l 5
- 662.5 789 747.5 789 828.5 800 c 5
- 828.5 797 829.5 792 829.5 792 c 5
- 784.5 792 663.066 726.314 600.5 627 c 6
- 371.501 263.5 l 13
+371.501 263.5 m 9
+ 359.25 278.25 l 17
+ 586.5 640 l 2
+ 673.52 778.522 574.854 792.48 574.5 792 c 1
+ 574.5 800 l 1
+ 662.5 789 747.5 789 828.5 800 c 1
+ 828.5 797 829.5 792 829.5 792 c 1
+ 784.5 792 663.066 726.314 600.5 627 c 2
+ 371.501 263.5 l 9
 471 436 m 17
  471 85 l 2
  471 21 564 8 564 8 c 1
