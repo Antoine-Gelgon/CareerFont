@@ -88,3 +88,21 @@ The final version is the frist on the left
 ![Specimen](https://github.com/Antoine-Gelgon/CareerFont/raw/c7b4aeae5734735b1299512a807f8fd9ab31332a/ScreenShot/Capture%20du%202014-08-18%2023:07:47.png)
 ![Specimen](https://github.com/Antoine-Gelgon/CareerFont/raw/c7b4aeae5734735b1299512a807f8fd9ab31332a/ScreenShot/Capture%20du%202014-08-19%2000:36:43.png)
 ![Specimen](https://github.com/Antoine-Gelgon/CareerFont/raw/c7b4aeae5734735b1299512a807f8fd9ab31332a/ScreenShot/Capture%20du%202014-08-19%2000:38:50.png)
+
+###22/08/14
+
+-Creation of the U V W
+-Modification of the w v
+
+The final version is the frist on the left
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/9da68decd9dbe62b4a4c3b5feba55de0704baf77/ScreenShot/Capture%20du%202014-08-22%2019:18:02.png)
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/9da68decd9dbe62b4a4c3b5feba55de0704baf77/ScreenShot/Capture%20du%202014-08-22%2019:30:24.png)
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/9da68decd9dbe62b4a4c3b5feba55de0704baf77/ScreenShot/Capture%20du%202014-08-22%2019:33:40.png)
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/9da68decd9dbe62b4a4c3b5feba55de0704baf77/ScreenShot/Capture%20du%202014-08-22%2019:34:14.png)
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/9da68decd9dbe62b4a4c3b5feba55de0704baf77/ScreenShot/Capture%20du%202014-08-22%2019:33:40.png)
+
+The final version is the frist on the left
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/9da68decd9dbe62b4a4c3b5feba55de0704baf77/ScreenShot/Capture%20du%202014-08-22%2020:04:41.png)
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/9da68decd9dbe62b4a4c3b5feba55de0704baf77/ScreenShot/Capture%20du%202014-08-22%2020:05:34.png)
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/9da68decd9dbe62b4a4c3b5feba55de0704baf77/ScreenShot/Capture%20du%202014-08-22%2020:07:29.png)
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/9da68decd9dbe62b4a4c3b5feba55de0704baf77/ScreenShot/Capture%20du%202014-08-22%2021:07:03.png)
