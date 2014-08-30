@@ -5,7 +5,7 @@ FamilyName: Career
 Weight: Medium
 Copyright: Created by Antoine Gelgon with FontForge 2.0 (http://fontforge.sf.net)\n\nUnder OpenFont License http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL\n
 UComments: "2014-5-9: Created." 
-FontLog: "FontLog Career Caslon+AAoACgAK-14/08/2014 : Antoine Gelgon+AAoA--Modified vector of 's'+AAoA--creation of the 'C' and 'R'+AAoACgAA-15/08/2014 : Antoine Gelgon+AAoA--Creation of the 'E' 'F' 'I' 'D' 'A' 'N'+AAoA--modification of the finestroke on the 'L'+AAoA--Normalization of finestroke around 16 large for capitals.+AAoACgAA-18/08/2014 : Antoine Gelgon+AAoA--Creation of the 'O' 'Q' 'M' 'K'+AAoACgAA-22/08/2014 : Antoine Gelgon+AAoA--Creation of the U V W+AAoA--Modification of the w v+AAoACgAA-25/08/2014 : Antoine Gelgon+AAoA--Creation of the X Y G+AAoA--Modification f's drop.+AAoA--Optical modifications for O C Q S. these letters have been extended" 
+FontLog: "FontLog Career Caslon+AAoACgAK-14/08/2014 : Antoine Gelgon+AAoA--Modified vector of 's'+AAoA--creation of the 'C' and 'R'+AAoACgAA-15/08/2014 : Antoine Gelgon+AAoA--Creation of the 'E' 'F' 'I' 'D' 'A' 'N'+AAoA--modification of the finestroke on the 'L'+AAoA--Normalization of finestroke around 16 large for capitals.+AAoACgAA-18/08/2014 : Antoine Gelgon+AAoA--Creation of the 'O' 'Q' 'M' 'K'+AAoACgAA-22/08/2014 : Antoine Gelgon+AAoA--Creation of the U V W+AAoA--Modification of the w v+AAoACgAA-25/08/2014 : Antoine Gelgon+AAoA--Creation of the X Y G+AAoA--Modification f's drop.+AAoA--Optical modifications for O C Q S. these letters have been extended+AAoACgAA-29/08/2014 : Antoine Gelgon+AAoA--Creation of the Z+AAoA--All uppercases and lowercase were drawn." 
 Version: 001.000
 ItalicAngle: 0
 UnderlinePosition: -100
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1407112779
-ModificationTime: 1408977176
+ModificationTime: 1409418504
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -51,7 +51,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 25 25 11
+WinInfo: 24 24 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -79,7 +79,7 @@ Grid
  2000 500 l 0
 EndSplineSet
 TeXData: 1 0 0 209715 104857 69905 524288 1048576 69905 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65536 52
+BeginChars: 65536 53
 
 StartChar: a
 Encoding: 97 97 0
@@ -120,6 +120,7 @@ SplineSet
  198 489 158 465 158 410 c 5
  159 363 l 5xe8
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: o
@@ -676,6 +677,7 @@ SplineSet
  65 35 70 44 70 54 c 2
  70 441 l 1
 EndSplineSet
+Validated: 524325
 EndChar
 
 StartChar: c
@@ -1165,6 +1167,7 @@ SplineSet
  58.5 383 22.5 420 -28.5 433 c 1
  -28.5 439 l 1
 EndSplineSet
+Validated: 524325
 EndChar
 
 StartChar: i
@@ -1600,6 +1603,7 @@ SplineSet
  297 676 261 636 213 636 c 0
  165 636 131 676 131 724 c 0xe8
 EndSplineSet
+Validated: 524329
 EndChar
 
 StartChar: u
@@ -1839,6 +1843,7 @@ SplineSet
  557.069 141.988 493.405 292.125 428.546 445.818 c 1
  409.825 488.243 362.455 492.356 363.006 491.999 c 1
 EndSplineSet
+Validated: 524331
 EndChar
 
 StartChar: x
@@ -2120,15 +2125,15 @@ VStem: -29 8<536 546.613> 270 174<40.4903 798> 737 8<536 546.613>
 LayerCount: 2
 Fore
 SplineSet
-205 0 m 5xdc
- 205 8 l 5
- 205 8 298 22 298 85 c 6
- 298 798 l 5
- 472 798 l 5
- 472 85 l 6
- 472 21 564 8 564 8 c 5
- 564 0 l 5
- 472 21 299 19 205 0 c 5xdc
+205 0 m 1xdc
+ 205 8 l 1
+ 205 8 298 22 298 85 c 2
+ 298 798 l 1
+ 472 798 l 1
+ 472 85 l 2
+ 472 21 564 8 564 8 c 1
+ 564 0 l 1
+ 472 21 299 19 205 0 c 1xdc
 442 783 m 2
  330 783 l 2xdc
  73 783 7 536 7 536 c 1
@@ -2227,6 +2232,7 @@ SplineSet
  304.327 27.8154 l 1
  304.327 27.8154 335 16.9854 392.5 16.9854 c 1
 EndSplineSet
+Validated: 524325
 EndChar
 
 StartChar: H
@@ -2498,7 +2504,7 @@ EndChar
 
 StartChar: P
 Encoding: 80 80 31
-Width: 624
+Width: 690
 VWidth: 0
 Flags: W
 HStem: 0 8<11.5088 25.0352 357.757 371.509> 348.269 11.502<264.391 395.086> 783.014 16.986<279.077 406.424> 791.5 8<11.666 27.5577>
@@ -2536,7 +2542,7 @@ StartChar: C
 Encoding: 67 67 32
 Width: 726
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -15 17<331.925 452.026> 798 17<340.537 449.202>
 VStem: 0 189<271.147 537.068> 674.5 8.5<-4 16.0269 278.178 293.833 489 519.322 778.496 803>
 LayerCount: 2
@@ -2580,6 +2586,7 @@ SplineSet
  674.625 803 674.375 746 632 746 c 1
  597.875 746 521.5 815 392 815 c 5
 EndSplineSet
+Validated: 524329
 EndChar
 
 StartChar: R
@@ -2630,6 +2637,7 @@ SplineSet
  376.509 8 283.509 21 283.509 84.9961 c 1xda
  283.562 792.35 l 1
 EndSplineSet
+Validated: 524325
 EndChar
 
 StartChar: D
@@ -2675,19 +2683,19 @@ Encoding: 69 69 35
 Width: 780
 VWidth: 0
 Flags: W
-HStem: 0 16.9854<316 460.435> 0 8<21 37.0018> 389.912 16.0879<318 374.564> 782.886 16.9893<289.34 438.684> 792.5 8<22.5 38.3917>
-VStem: 113 175<39.2837 85 715.5 762.925> 288.037 0.962891<775.782 793> 525 9.33301<202.912 243.405 552.507 593>
+HStem: 0 16.9854<316 460.435> 0 8<21 37.0019> 389.912 16.088<318 374.564> 782.886 16.989<289.34 438.684> 792.5 8<22.5 38.3917>
+VStem: 113 175<39.2837 85 715.5 762.925> 288.037 0.963013<775.782 793> 525 9.33301<202.912 243.405 552.507 593>
 LayerCount: 2
 Fore
 SplineSet
-373.5 16.9854 m 1xa7
- 316 16.9854 285.327 27.8154 285.327 27.8154 c 1
- 290.125 7.35938 l 0
- 323.838 3.71289 373.5 0 373.5 0 c 1xa7
- 486.667 0 599.835 0 713.002 0 c 9x67
- 755.341 282.993 l 25
- 746 283 l 17
- 746 283 710 16.9854 373.5 16.9854 c 1xa7
+373.5 16.9854 m 5xa7
+ 316 16.9854 285.327 27.8154 285.327 27.8154 c 5
+ 290.125 7.35938 l 4
+ 323.838 3.71289 373.5 0 373.5 0 c 5xa7
+ 486.667 0 599.835 0 713.002 0 c 13x67
+ 755.341 282.993 l 29
+ 746 283 l 21
+ 746 283 710 16.9854 373.5 16.9854 c 5xa7
 21 0 m 1x6f
  141.372 -0 255.771 0 373.5 0 c 1
  373.5 16.9854 l 1xa7
@@ -2718,7 +2726,7 @@ SplineSet
  636.167 771.5 l 17
  636.167 771.5 504.5 799.875 371.381 799.875 c 1x37
 EndSplineSet
-Validated: 37
+Validated: 524325
 EndChar
 
 StartChar: F
@@ -2868,6 +2876,7 @@ SplineSet
  432.922 818 l 1
  720.922 90.665 l 2
 EndSplineSet
+Validated: 524325
 EndChar
 
 StartChar: K
@@ -2914,6 +2923,7 @@ SplineSet
  24 8 l 1
  24 8 117 22 117 85 c 2
 EndSplineSet
+Validated: 524325
 EndChar
 
 StartChar: O
@@ -3005,6 +3015,7 @@ SplineSet
  467.075 1.95117 556.964 88.1396 556.964 387.14 c 1
  556.964 709.14 492.511 796.09 386 798.004 c 1
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: Q
@@ -3037,6 +3048,7 @@ SplineSet
  467.536 3 556.964 88.1396 556.964 387.14 c 1
  556.964 709.14 492.511 796.1 386 798.014 c 1
 EndSplineSet
+Validated: 524293
 EndChar
 
 StartChar: S
@@ -3069,6 +3081,7 @@ SplineSet
  537 524 139 467 139 676 c 1
  139 715 145.199 798.31 250.009 797.997 c 1xe8
 EndSplineSet
+Validated: 524325
 EndChar
 
 StartChar: M
@@ -3115,6 +3128,7 @@ SplineSet
  128.457 35.5059 0 8.00586 0 8.00586 c 1
  0 0.00195312 l 1
 EndSplineSet
+Validated: 524325
 EndChar
 
 StartChar: U
@@ -3231,6 +3245,7 @@ SplineSet
  725.95 83.25 572 10.0488 475.749 10.0488 c 1
 274.51 231 m 1
 EndSplineSet
+Validated: 524329
 EndChar
 
 StartChar: V
@@ -3284,6 +3299,7 @@ SplineSet
  367 791.999 262.353 776.068 285.135 717.331 c 6
  483.466 206.001 l 5
 EndSplineSet
+Validated: 524325
 EndChar
 
 StartChar: W
@@ -3335,6 +3351,7 @@ SplineSet
  367 791.999 262.353 776.068 285.135 717.331 c 2
  483.466 206.001 l 1
 EndSplineSet
+Validated: 524325
 EndChar
 
 StartChar: J
@@ -3441,6 +3458,7 @@ SplineSet
  171.001 792.5 264.001 778.502 264.001 715.5 c 2
  264 118 l 1
 EndSplineSet
+Validated: 524329
 EndChar
 
 StartChar: X
@@ -3470,15 +3488,15 @@ SplineSet
  780.5 797 781.5 792 781.5 792 c 1
  736.5 792 614.967 726.375 552.5 627 c 2
  372.251 340.25 l 9
-514 79.5 m 2
- 182 636 l 9
- 300.678 773.82 l 17
- 713 85 l 1
- 740.177 37.1553 778 9.5 806 8 c 1
- 806 0 l 1
- 721.083 17.1592 550.522 18.9199 446 0 c 1
- 446 8 l 1
- 446 8 546.275 25.4004 514 79.5 c 2
+514 79.5 m 6
+ 182 636 l 13
+ 300.678 773.82 l 21
+ 713 85 l 5
+ 740.177 37.1553 778 9.5 806 8 c 5
+ 806 0 l 5
+ 721.083 17.1592 550.522 18.9199 446 0 c 5
+ 446 8 l 5
+ 446 8 546.275 25.4004 514 79.5 c 6
 332 720.5 m 2
  664 164 l 9
  545.322 26.1797 l 17
@@ -3489,6 +3507,7 @@ SplineSet
  400 792 l 1
  400 792 299.725 774.6 332 720.5 c 2
 EndSplineSet
+Validated: 524325
 EndChar
 
 StartChar: Y
@@ -3559,6 +3578,7 @@ SplineSet
  360 792 l 1
  360 792 258.452 773.82 292 720.5 c 2
 EndSplineSet
+Validated: 524325
 EndChar
 
 StartChar: G
@@ -3627,6 +3647,89 @@ SplineSet
  767 372 l 1
  675 351 474 353 380 372 c 1
 EndSplineSet
+Validated: 524325
+EndChar
+
+StartChar: Z
+Encoding: 90 90 52
+Width: 780
+VWidth: 0
+Flags: WO
+HStem: 0 16.9854<276.5 324.658 324.659 409.825> 0 8<-4 12.6511> 782.998 16.9893<364.233 515.197>
+LayerCount: 2
+Back
+SplineSet
+1126.36 16.9854 m 1xa0
+ 1455.2 16.9854 1498.86 282.957 1498.86 283 c 9
+ 1508.2 282.993 l 25
+ 1465.86 0 l 17x60
+ 1352.7 0 1239.53 0 1126.36 0 c 1
+ 1126.36 0 1076.7 3.71289 1042.99 7.35938 c 0
+ 1038.19 27.8154 l 1
+ 1038.19 27.8154 1078.2 16.9854 1126.36 16.9854 c 1xa0
+1089.7 79.5 m 1
+ 1057.24 25.6416 1112.23 16.9814 1126.36 16.9814 c 1
+ 1126.36 0 l 1xa0
+ 797.702 0 l 1
+ 797.702 8 l 1
+ 825.702 9.5 863.525 37.1553 890.702 85 c 1
+ 1307.02 773.82 l 9
+ 1425.7 636 l 17
+ 1089.7 79.5 l 1
+1318.2 793.112 m 2
+ 1318.2 793.112 1367.36 786.802 1402.2 786.561 c 1
+ 1466.16 786.535 1520.1 791.08 1566.7 800.5 c 1
+ 1566.7 792.5 l 1
+ 1566.7 792.5 1516.83 786.904 1473.7 715.5 c 2
+ 1057.38 26.1797 l 9
+ 938.702 164 l 17
+ 1318.2 793.112 l 2
+1234.86 799.987 m 1
+ 1274.19 798.821 1284.49 796.759 1318.2 793.112 c 0
+ 1318.23 775.895 l 1
+ 1318.23 775.895 1295.98 782.998 1234.85 782.998 c 0
+ 1020.91 782.998 902.24 568.113 902.24 568.113 c 9
+ 892.842 568.112 l 25
+ 970.072 771.612 l 17
+ 970.072 771.612 1101.74 799.987 1234.86 799.987 c 1
+EndSplineSet
+Fore
+SplineSet
+324.659 16.9854 m 1xa0
+ 653.5 16.9854 697.159 282.957 697.159 283 c 9
+ 706.5 282.993 l 25
+ 664.161 0 l 17x60
+ 550.994 0 437.826 0 324.659 0 c 1
+ 324.659 0 274.997 3.71289 241.284 7.35938 c 0
+ 236.486 27.8154 l 1
+ 236.486 27.8154 276.5 16.9854 324.659 16.9854 c 1xa0
+288 79.5 m 1
+ 255.536 25.642 310.53 16.9814 324.659 16.9814 c 1
+ 324.658 -0 l 1xa0
+ -4 0 l 1
+ -4 8 l 1
+ 24 9.5 61.8232 37.1553 89 85 c 1
+ 505.322 773.82 l 9
+ 624 636 l 17
+ 288 79.5 l 1
+516.5 793.112 m 2
+ 516.5 793.112 565.655 786.802 600.5 786.561 c 1
+ 664.459 786.535 718.395 791.08 765 800.5 c 1
+ 765 792.5 l 1
+ 765 792.5 715.125 786.904 672 715.5 c 2
+ 255.678 26.1797 l 9
+ 137 164 l 17
+ 516.5 793.112 l 2
+433.156 799.987 m 1
+ 472.49 798.821 482.787 796.759 516.5 793.112 c 0
+ 516.532 775.895 l 1
+ 516.532 775.895 494.281 782.998 433.151 782.998 c 0
+ 219.204 782.998 71.5381 568.113 71.5381 568.113 c 9
+ 62.1396 568.112 l 25
+ 139.37 771.612 l 17
+ 139.37 771.612 300.037 799.987 433.156 799.987 c 1
+EndSplineSet
+Validated: 524325
 EndChar
 EndChars
 EndSplineFont

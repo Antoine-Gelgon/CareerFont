@@ -7,13 +7,16 @@
 	<key>styleName</key>
 	<string>Medium</string>
 	<key>copyright</key>
-	<string>Created by Antoine Gelgon with FontForge 2.0 (http://fontforge.sf.net)</string>
+	<string>Created by Antoine Gelgon with FontForge 2.0 (http://fontforge.sf.net)
+
+Under OpenFont License http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;id=OFL
+</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>xHeight</key>
 	<integer>500</integer>
 	<key>capHeight</key>
-	<integer>806</integer>
+	<integer>808</integer>
 	<key>ascender</key>
 	<integer>800</integer>
 	<key>descender</key>
@@ -48,9 +51,9 @@
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>90</integer>
 	<key>openTypeOS2WinAscent</key>
-	<integer>814</integer>
+	<integer>818</integer>
 	<key>openTypeOS2WinDescent</key>
-	<integer>-138</integer>
+	<integer>-167</integer>
 	<key>postscriptFontName</key>
 	<string>Career</string>
 	<key>postscriptFullName</key>
