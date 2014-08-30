@@ -132,3 +132,12 @@ Creation of the X.
 
 Modification f's drop.
 ![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/6883a1c8f87a84070cb5c315953dbef5d8ee6825/ScreenShot/Capture%20du%202014-08-24%2019:54:05.png)
+
+###30/08/14
+
+-Creation of the Z
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/073aa118e428c00fb6a0fe8c5e74df76a3d29062/ScreenShot/Capture%20du%202014-08-29%2016:18:44.png)
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/073aa118e428c00fb6a0fe8c5e74df76a3d29062/ScreenShot/Capture%20du%202014-08-29%2016:20:14.png)
+
+-All uppercases and lowercase were drawn.
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/073aa118e428c00fb6a0fe8c5e74df76a3d29062/ScreenShot/Document-3-page001.png)
