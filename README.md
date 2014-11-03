@@ -141,3 +141,15 @@ Modification f's drop.
 
 -All uppercases and lowercase were drawn.
 ![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/073aa118e428c00fb6a0fe8c5e74df76a3d29062/ScreenShot/Document-3-page001.png)
+
+###03/11/2014
+
+-All numerals were drawn.
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/ab12ea8ed5aa8266a80df1e40c962c7a7bbf4e2d/ScreenShot/Capture%20du%202014-09-23%2000:22:24.png)
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/ab12ea8ed5aa8266a80df1e40c962c7a7bbf4e2d/ScreenShot/Capture%20du%202014-09-23%2000:22:50.png)
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/ab12ea8ed5aa8266a80df1e40c962c7a7bbf4e2d/ScreenShot/Capture%20du%202014-09-23%2000:27:34.png)
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/ab12ea8ed5aa8266a80df1e40c962c7a7bbf4e2d/ScreenShot/Capture%20du%202014-09-30%2018:03:25.png)
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/ab12ea8ed5aa8266a80df1e40c962c7a7bbf4e2d/ScreenShot/Capture%20du%202014-09-30%2018:09:05.png)
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/ab12ea8ed5aa8266a80df1e40c962c7a7bbf4e2d/ScreenShot/Capture%20du%202014-11-04%2000:25:44.png)
+
+
