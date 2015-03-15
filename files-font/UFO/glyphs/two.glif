@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two" format="1">
+  <advance width="567"/>
+  <unicode hex="0032"/>
+  <outline>
+    <contour>
+      <point x="529,999" y="243,817" type="line"/>
+      <point x="521,998" y="244,001" type="line"/>
+      <point x="521,998" y="244,001"/>
+      <point x="508,998" y="152"/>
+      <point x="444,998" y="152" type="curve" smooth="yes"/>
+      <point x="73,9791" y="152" type="line"/>
+      <point x="200,343" y="326,292"/>
+      <point x="538" y="332,884"/>
+      <point x="538" y="580" type="curve" smooth="yes"/>
+      <point x="538" y="714"/>
+      <point x="440" y="814,989"/>
+      <point x="298,333" y="814,989" type="curve" smooth="yes"/>
+      <point x="200,855" y="814,989"/>
+      <point x="55,8242" y="735,172"/>
+      <point x="3,72754" y="548" type="curve"/>
+      <point x="17,6709" y="548" type="line"/>
+      <point x="74,4062" y="629,852"/>
+      <point x="154" y="688"/>
+      <point x="225,983" y="688" type="curve" smooth="yes"/>
+      <point x="326" y="688"/>
+      <point x="358" y="608"/>
+      <point x="358" y="548" type="curve" smooth="yes"/>
+      <point x="358" y="343"/>
+      <point x="8" y="287"/>
+      <point x="8" y="0" type="curve"/>
+      <point x="9" y="0" type="line"/>
+      <point x="26,999" y="0" type="line"/>
+      <point x="492,636" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>688</integer>
+	    <key>width</key>	    <integer>127</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>9</integer>
+	    <key>width</key>
+	    <integer>18</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>358</integer>
+	    <key>width</key>
+	    <integer>180</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>522</integer>
+	    <key>width</key>
+	    <integer>8</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

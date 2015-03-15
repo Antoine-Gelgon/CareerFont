@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute" format="1">
+  <advance width="516"/>
+  <unicode hex="00B4"/>
+  <outline>
+    <contour>
+      <point x="134,459" y="565,82" type="line"/>
+      <point x="218,06" y="565,82"/>
+      <point x="273,115" y="566,364"/>
+      <point x="327,879" y="606,232" type="curve" smooth="yes"/>
+      <point x="367,722" y="635,236"/>
+      <point x="362,448" y="677,312"/>
+      <point x="344,355" y="701,764" type="curve" smooth="yes"/>
+      <point x="310,461" y="747,565"/>
+      <point x="226,859" y="723,854"/>
+      <point x="226,859" y="667,021" type="curve" smooth="yes"/>
+      <point x="226,859" y="627,054"/>
+      <point x="206,326" y="583,05"/>
+      <point x="143,259" y="583,05" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>566</integer>
+	    <key>width</key>	    <integer>17</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

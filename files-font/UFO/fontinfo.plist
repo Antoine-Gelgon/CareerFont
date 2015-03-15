@@ -16,7 +16,7 @@ Under OpenFont License http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&
 	<key>xHeight</key>
 	<integer>500</integer>
 	<key>capHeight</key>
-	<integer>808</integer>
+	<integer>807</integer>
 	<key>ascender</key>
 	<integer>800</integer>
 	<key>descender</key>
@@ -51,9 +51,9 @@ Under OpenFont License http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>90</integer>
 	<key>openTypeOS2WinAscent</key>
-	<integer>818</integer>
+	<integer>1038</integer>
 	<key>openTypeOS2WinDescent</key>
-	<integer>-167</integer>
+	<integer>-187</integer>
 	<key>postscriptFontName</key>
 	<string>Career</string>
 	<key>postscriptFullName</key>

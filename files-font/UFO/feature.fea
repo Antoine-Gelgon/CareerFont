@@ -1,10 +1,115 @@
+
+# GSUB 
+
+
+lookup ligaLigaturesstandarddansLatinl {
+  lookupflag 0;
+    sub \f \l  by \uniFB02;
+    sub \e \grave  by \egrave;
+    sub \a \acute  by \aacute;
+    sub \e \acute  by \eacute;
+    sub \grave  by \igrave;
+    sub \f \i  by \uniFB01;
+    sub \f \f  by \uniFB00;
+    sub \f \f \l  by \uniFB04;
+    sub \f \f \i  by \uniFB03;
+} ligaLigaturesstandarddansLatinl;
+
+feature liga {
+
+  script DFLT;
+     language dflt ;
+      lookup ligaLigaturesstandarddansLatinl;
+
+  script latn;
+     language dflt ;
+      lookup ligaLigaturesstandarddansLatinl;
+} liga;
+
+# GPOS 
+
+
+lookup kernCrnagehorizontaldansLatinlo {
+  lookupflag 0;
+    @kc6_first_1 = [\V ];
+    @kc6_first_2 = [\P ];
+    @kc6_first_3 = [\W ];
+    @kc6_first_4 = [\T ];
+    @kc6_first_5 = [\F ];
+    @kc6_first_6 = [\A \Agrave \Aacute \Acircumflex \Adieresis ];
+    @kc6_first_7 = [\v \w \y \yacute \ydieresis ];
+    @kc6_first_8 = [\f ];
+    @kc6_second_1 = [\A \Agrave \Aacute \Acircumflex \Atilde \Adieresis \AE ];
+    @kc6_second_2 = [\T \V \W ];
+    @kc6_second_3 = [\a \agrave \aacute \acircumflex \atilde \adieresis \ae ];
+    @kc6_second_4 = [\c \e \o \ccedilla \egrave \eacute \ecircumflex \edieresis \ograve \oacute 
+	\ocircumflex \otilde \odieresis ];
+    @kc6_second_5 = [\m \n \p \r \x ];
+    @kc6_second_6 = [\v \w ];
+    pos @kc6_first_1 @kc6_second_1 -230;
+    pos @kc6_first_1 @kc6_second_3 -120;
+    pos @kc6_first_1 @kc6_second_4 -120;
+    pos @kc6_first_2 @kc6_second_1 -150;
+    pos @kc6_first_2 @kc6_second_3 -70;
+    pos @kc6_first_2 @kc6_second_4 -118;
+    pos @kc6_first_3 @kc6_second_1 -230;
+    pos @kc6_first_3 @kc6_second_3 -247;
+    pos @kc6_first_3 @kc6_second_4 -252;
+    pos @kc6_first_4 @kc6_second_1 -160;
+    pos @kc6_first_4 @kc6_second_3 -70;
+    pos @kc6_first_4 @kc6_second_4 -70;
+    pos @kc6_first_4 @kc6_second_5 -70;
+    pos @kc6_first_4 @kc6_second_6 -70;
+    pos @kc6_first_5 @kc6_second_1 -150;
+    pos @kc6_first_5 @kc6_second_3 -128;
+    pos @kc6_first_5 @kc6_second_4 -80;
+    pos @kc6_first_5 @kc6_second_5 -70;
+    pos @kc6_first_5 @kc6_second_6 -70;
+    pos @kc6_first_6 @kc6_second_1 90;
+    pos @kc6_first_6 @kc6_second_2 -180;
+    pos @kc6_first_6 @kc6_second_4 -66;
+    pos @kc6_first_6 @kc6_second_6 -100;
+    pos @kc6_first_7 @kc6_second_3 -70;
+    pos @kc6_first_7 @kc6_second_4 -70;
+    pos @kc6_first_8 @kc6_second_1 -70;
+    pos @kc6_first_8 @kc6_second_3 -40;
+    pos @kc6_first_8 @kc6_second_4 -40;
+    pos @kc6_first_8 @kc6_second_5 -40;
+  subtable;
+    pos \F \A -150;
+} kernCrnagehorizontaldansLatinlo;
+
+feature kern {
+
+  script DFLT;
+     language dflt ;
+      lookup kernCrnagehorizontaldansLatinlo;
+
+  script latn;
+     language dflt ;
+      lookup kernCrnagehorizontaldansLatinlo;
+} kern;
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\a \o \r \d \s \e \space \n \f \c \p \b \g \t \m \i \h \l \q \j \u \v \w \x \y \T \L \H 
-	\k \z \B \P \C \R \D \E \F \N \I \A \K \O \Q \S \M \U \V \W \J \X \Y \G \Z ];
+	\k \z \B \P \C \R \D \E \F \N \I \A \K \O \Q \S \M \U \V \W \J \X \Y \G \Z \zero \comma \period 
+	\semicolon \colon \parenleft \parenright \nine \eight \one \two \three \four \five 
+	\six \seven \at \question \bracketleft \bracketright \backslash \exclam 
+	\ampersand \grave \acute \ograve \oacute \ugrave \uacute \yacute \Ograve \Agrave 
+	\Aacute \Egrave \Eacute \Igrave \Iacute \Oacute \Ugrave \Uacute \slash 
+	\asciicircum \ocircumflex \Ocircumflex \ecircumflex \Ucircumflex \ucircumflex 
+	\Acircumflex \Icircumflex \udieresis \acircumflex \agrave \dieresis \Adieresis 
+	\adieresis \edieresis \odieresis \Ecircumflex \Edieresis \Idieresis \Odieresis 
+	\Udieresis \ydieresis \asciitilde \atilde \ntilde \otilde \Ntilde \Yacute 
+	\Otilde \iacute \icircumflex \idieresis \Atilde \bar \cedilla \Ccedilla 
+	\ccedilla \ae \guillemotleft \guillemotright \braceleft \uniFB05 \quotesingle 
+	\equal \uni0080 \quotedbl \hyphen \underscore \less \greater \plus \AE \oe \dollar 
+	\braceright \exclamdown \divide \numbersign \quoteright \asterisk \OE ];
+@GDEF_Ligature = [\uniFB02 \egrave \aacute \eacute \igrave \uniFB01 \uniFB00 
+	\uniFB04 \uniFB03 ];
 
 table GDEF {
-  GlyphClassDef @GDEF_Simple, , , ;
+  GlyphClassDef @GDEF_Simple, @GDEF_Ligature, , ;
 
 } GDEF;
 
