@@ -1,4 +1,8 @@
-# Career
+![Specimen](https://github.com/Antoine-Gelgon/CareerFont/blob/master/ScreenShot/Capture%20du%202015-03-15%2023:55:37.png?raw=true)
+
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/3a3086994b5590ce21e3609efa90e12036590a7b/ScreenShot/Capture%20du%202015-03-15%2023%3A53%3A14.png)
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/3a3086994b5590ce21e3609efa90e12036590a7b/ScreenShot/Capture%20du%202015-03-15%2023%3A54%3A27.png)
+
   by Antoine Gelgon / 2014 (Work in Progresse)
   antoine.gelgon@gmail.com
   software: FontForge
@@ -22,7 +26,7 @@ a list of fonts in the same style
 ## License
 Career is under [SIL Open Font License (OFL)](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL "SIL Open Font License")
 
-## ScreenShot
+## ScreenShot / Changelog
 
 ![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/master/ScreenShot/Capture%20du%202014-07-29%2020:22:41.png)
 ![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/master/ScreenShot/Capture%20du%202014-07-29%2020:40:21.png)
@@ -152,4 +156,14 @@ Modification f's drop.
 ![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/ab12ea8ed5aa8266a80df1e40c962c7a7bbf4e2d/ScreenShot/Capture%20du%202014-09-30%2018:09:05.png)
 ![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/ab12ea8ed5aa8266a80df1e40c962c7a7bbf4e2d/ScreenShot/Capture%20du%202014-11-04%2000:25:44.png)
 
+
+###15/03/2015
+-Punctuations and accents are finished
+-Metrics and Kerning are finished
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/3a3086994b5590ce21e3609efa90e12036590a7b/ScreenShot/Capture%20du%202015-03-11%2022%3A40%3A38.png)
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/3a3086994b5590ce21e3609efa90e12036590a7b/ScreenShot/Capture%20du%202015-03-11%2022%3A42%3A48.png)
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/3a3086994b5590ce21e3609efa90e12036590a7b/ScreenShot/Capture%20du%202015-03-11%2022%3A47%3A30.png)
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/3a3086994b5590ce21e3609efa90e12036590a7b/ScreenShot/Capture%20du%202015-03-15%2022%3A50%3A36.png)
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/3a3086994b5590ce21e3609efa90e12036590a7b/ScreenShot/Capture%20du%202015-03-15%2022%3A52%3A24.png)
+![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/3a3086994b5590ce21e3609efa90e12036590a7b/ScreenShot/Capture%20du%202015-03-15%2023%3A02%3A29.png)
 
