@@ -1,3 +1,7 @@
+
+![Specimen](https://github.com/Antoine-Gelgon/CareerFont/blob/master/Specimen/Career-spe-page002.png?raw=true)
+![Specimen](https://github.com/Antoine-Gelgon/CareerFont/blob/master/Specimen/Career-spe-page003.png?raw=true)
+
 ![Specimen](https://github.com/Antoine-Gelgon/CareerFont/blob/master/ScreenShot/Capture%20du%202015-03-15%2023:55:37.png?raw=true)
 
 ![Specimen](https://raw.githubusercontent.com/Antoine-Gelgon/CareerFont/3a3086994b5590ce21e3609efa90e12036590a7b/ScreenShot/Capture%20du%202015-03-15%2023%3A53%3A14.png)
