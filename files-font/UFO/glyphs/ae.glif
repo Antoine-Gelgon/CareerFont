@@ -130,7 +130,13 @@
 	    <key>position</key>
 	    <integer>303</integer>
 	    <key>width</key>
-	    <integer>34</integer>
+	    <integer>141</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>646</integer>
+	    <key>width</key>
+	    <integer>134</integer>
 	  </dict>
 	</array>
       </dict>

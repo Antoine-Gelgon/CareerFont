@@ -89,12 +89,12 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>8</integer>
+	    <key>position</key>	    <integer>-20</integer>
+	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>434</integer>
-	    <key>width</key>	    <integer>7</integer>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>8</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>792</integer>

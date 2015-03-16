@@ -122,21 +122,9 @@
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>215</integer>
-	    <key>width</key>
-	    <integer>19</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
 	    <integer>409</integer>
 	    <key>width</key>
 	    <integer>135</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>526</integer>
-	    <key>width</key>
-	    <integer>17</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>

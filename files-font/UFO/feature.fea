@@ -39,6 +39,8 @@ lookup kernCrnagehorizontaldansLatinlo {
     @kc6_first_6 = [\A \Agrave \Aacute \Acircumflex \Adieresis ];
     @kc6_first_7 = [\v \w \y \yacute \ydieresis ];
     @kc6_first_8 = [\f ];
+    @kc6_first_9 = [\U \Ugrave \Uacute \Ucircumflex \Udieresis ];
+    @kc6_first_10 = [\O \Ograve \Oacute \Ocircumflex \Otilde \Odieresis ];
     @kc6_second_1 = [\A \Agrave \Aacute \Acircumflex \Atilde \Adieresis \AE ];
     @kc6_second_2 = [\T \V \W ];
     @kc6_second_3 = [\a \agrave \aacute \acircumflex \atilde \adieresis \ae ];
@@ -75,6 +77,8 @@ lookup kernCrnagehorizontaldansLatinlo {
     pos @kc6_first_8 @kc6_second_3 -40;
     pos @kc6_first_8 @kc6_second_4 -40;
     pos @kc6_first_8 @kc6_second_5 -40;
+    pos @kc6_first_9 @kc6_second_1 -80;
+    pos @kc6_first_10 @kc6_second_1 -80;
   subtable;
     pos \F \A -150;
 } kernCrnagehorizontaldansLatinlo;

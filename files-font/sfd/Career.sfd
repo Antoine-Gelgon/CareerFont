@@ -50,7 +50,7 @@ Lookup: 4 0 1 "'liga' Ligatures standard dans Latin lookup 0"  {"'liga' Ligature
 Lookup: 258 0 0 "'kern' Cr+AOkA-nage horizontal dans Latin lookup 0"  {"'kern' Cr+AOkA-nage horizontal dans Latin lookup 0-1" [150,15,0] "'kern' Cr+AOkA-nage horizontal dans Latin lookup 0-2" [150,15,0] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-KernClass2: 9 7 "'kern' Cr+AOkA-nage horizontal dans Latin lookup 0-1" 
+KernClass2: 11 7 "'kern' Cr+AOkA-nage horizontal dans Latin lookup 0-1" 
  1 V
  1 P
  1 W
@@ -59,13 +59,15 @@ KernClass2: 9 7 "'kern' Cr+AOkA-nage horizontal dans Latin lookup 0-1"
  37 A Agrave Aacute Acircumflex Adieresis
  22 v w y yacute ydieresis
  1 f
+ 37 U Ugrave Uacute Ucircumflex Udieresis
+ 44 O Ograve Oacute Ocircumflex Otilde Odieresis
  47 A Agrave Aacute Acircumflex Atilde Adieresis AE
  5 T V W
  47 a agrave aacute acircumflex atilde adieresis ae
  93 c e o ccedilla egrave eacute ecircumflex edieresis ograve oacute ocircumflex otilde odieresis
  9 m n p r x
  3 v w
- 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -230 {} 0 {} -120 {} -120 {} 0 {} 0 {} 0 {} -150 {} 0 {} -70 {} -118 {} 0 {} 0 {} 0 {} -230 {} 0 {} -247 {} -252 {} 0 {} 0 {} 0 {} -160 {} 0 {} -70 {} -70 {} -70 {} -70 {} 0 {} -150 {} 0 {} -128 {} -80 {} -70 {} -70 {} 0 {} 90 {} -180 {} 0 {} -66 {} 0 {} -100 {} 0 {} 0 {} 0 {} -70 {} -70 {} 0 {} 0 {} 0 {} -70 {} 0 {} -40 {} -40 {} -40 {} 0 {}
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -230 {} 0 {} -120 {} -120 {} 0 {} 0 {} 0 {} -150 {} 0 {} -70 {} -118 {} 0 {} 0 {} 0 {} -230 {} 0 {} -247 {} -252 {} 0 {} 0 {} 0 {} -160 {} 0 {} -70 {} -70 {} -70 {} -70 {} 0 {} -150 {} 0 {} -128 {} -80 {} -70 {} -70 {} 0 {} 90 {} -180 {} 0 {} -66 {} 0 {} -100 {} 0 {} 0 {} 0 {} -70 {} -70 {} 0 {} 0 {} 0 {} -70 {} 0 {} -40 {} -40 {} -40 {} 0 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {}
 LangName: 1033 "" "" "" "" "" "Version 001.000" 
 Encoding: ISO8859-1
 UnicodeInterp: none
@@ -73,7 +75,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 25 11
+WinInfo: 25 25 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -2558,7 +2560,7 @@ StartChar: A
 Encoding: 65 65 39
 Width: 835
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 8.25<10.0469 35.5333 303.392 323.545 458.68 476.728> 246 16<234.047 491.625> 798 20G<433.894 448.466>
 LayerCount: 2
 Fore
@@ -2780,9 +2782,9 @@ StartChar: U
 Encoding: 85 85 45
 Width: 903
 VWidth: 0
-Flags: HW
-HStem: -15 25.0488<422.016 545.161> 792 8<17.0186 33.2043 361.9 377.018 608.268 621.536 869.804 883>
-VStem: 110.58 174.51<193.977 313.681 715 759.07> 736.529 16.4883<229.234 313.681 660.042 695.662>
+Flags: W
+HStem: -15 25.0488<422.016 545.16> 792 8<17.0186 33.2044 362.894 378.018 608.268 621.536 869.804 883>
+VStem: 110.58 174.51<193.977 313.681 715 759.07> 736.529 16.489<229.234 313.681 660.042 695.662>
 LayerCount: 2
 Fore
 SplineSet
@@ -3368,7 +3370,7 @@ StartChar: three
 Encoding: 51 51 64
 Width: 598
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -15 20<247.699 329.705> 416 79.5<369.5 477.5> 416 13.5<211.5 250.901> 695.5 119.5<213.342 360>
 VStem: 12 191<90.673 213.693> 104.502 12.004<650.006 660.24> 359.6 166.27<541.216 698.275> 394.5 183<160.611 309.646>
 LayerCount: 2
@@ -4218,7 +4220,6 @@ StartChar: Acircumflex
 Encoding: 194 194 105
 Width: 835
 VWidth: 0
-Flags: H
 HStem: 0 8.25<10.0469 35.5333 303.392 323.545 458.68 476.728> 246 16<234.047 491.625> 798 20<433.894 448.466>
 VStem: 414.568 51.957<939.747 1031.5>
 LayerCount: 2
@@ -4307,9 +4308,8 @@ StartChar: Adieresis
 Encoding: 196 196 111
 Width: 835
 VWidth: 0
-Flags: H
-HStem: 0 8.25<10.0469 35.5333 303.392 323.545 458.68 476.728> 246 16<234.047 491.625> 798 20<433.894 448.466> 878 111.983<314.661 399.082 481.521 565.942>
-VStem: 304.005 106.224<889.3 978.576> 470.865 106.224<889.3 978.576>
+HStem: 0 8.25<10.0469 35.5333 303.392 323.545 458.68 476.728> 246 16<234.047 491.625> 798 20<433.894 448.466> 878 111.983<314.66 399.081 481.52 565.941>
+VStem: 304.005 106.224<889.3 978.577> 470.864 106.224<889.3 978.577>
 LayerCount: 2
 Fore
 Refer: 110 168 N 1 0 0 1 159.588 292.587 2
@@ -5696,7 +5696,7 @@ EndChar
 StartChar: asterisk
 Encoding: 42 42 162
 Width: 405
-Flags: WO
+Flags: W
 HStem: 548 49.6045<42.4349 184.863 221.17 363.216>
 VStem: 177.805 49.6045<413.089 552.104 590.184 733.871>
 LayerCount: 2
@@ -5742,7 +5742,7 @@ StartChar: OE
 Encoding: 264 338 163
 Width: 1245
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -15 16.9512<363.095 435.777> 0 16.9854<775 919.435> 389.912 16.0879<777 833.564> 782.886 16.9893<747.596 895.684> 798.004 16.9854<355.031 444.416>
 VStem: 28 198<242.327 539.624> 570.892 176.108<22 85 715.5 763.556> 745.037 1.96289<775.782 793> 984 9.33301<202.912 243.405 552.507 593>
 LayerCount: 2
