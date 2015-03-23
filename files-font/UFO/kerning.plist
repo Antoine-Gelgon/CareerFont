@@ -7,5 +7,10 @@
 	    <key>A</key>
 	    <integer>-150</integer>
 	</dict>
+	<key>zero</key>
+	<dict>
+	    <key>zero</key>
+	    <integer>19</integer>
+	</dict>
     </dict>
 </plist>

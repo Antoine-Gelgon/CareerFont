@@ -330,5 +330,11 @@
 	<string>asterisk.glif</string>
 	<key>OE</key>
 	<string>O_E_.glif</string>
+	<key>quotedblleft</key>
+	<string>quotedblleft.glif</string>
+	<key>quotedblright</key>
+	<string>quotedblright.glif</string>
+	<key>percent</key>
+	<string>percent.glif</string>
     </dict>
 </plist>

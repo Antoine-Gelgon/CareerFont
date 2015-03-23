@@ -1,0 +1,28 @@
+----------------
+CHANGELOG CAREER
+----------------
+
+14/08/2014 : Antoine Gelgon
+-Modified vector of 's'
+-creation of the 'C' and 'R'
+
+15/08/2014 : Antoine Gelgon
+-Creation of the 'E' 'F' 'I' 'D' 'A' 'N'
+-modification of the finestroke on the 'L'
+-Normalization of finestroke around 16 large for capitals.
+
+18/08/2014 : Antoine Gelgon
+-Creation of the 'O' 'Q' 'M' 'K'
+
+22/08/2014 : Antoine Gelgon
+-Creation of the U V W
+-Modification of the w v
+
+25/08/2014 : Antoine Gelgon
+-Creation of the X Y G
+-Modification f's drop.
+-Optical modifications for O C Q S. these letters have been extended
+
+29/08/2014 : Antoine Gelgon
+-Creation of the Z
+-All uppercases and lowercase were drawn.

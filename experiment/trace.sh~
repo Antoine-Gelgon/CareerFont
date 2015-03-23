@@ -1,0 +1,7 @@
+
+
+autotrace -background-color=FFFFFF \
+          -color-count 2 \
+	  -despeckle-tightness 4.0 \
+          -output-file=$2 \
+           $1

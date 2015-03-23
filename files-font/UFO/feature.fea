@@ -31,7 +31,7 @@ feature liga {
 
 lookup kernCrnagehorizontaldansLatinlo {
   lookupflag 0;
-    @kc6_first_1 = [\V ];
+    @kc6_first_1 = [\V \Y ];
     @kc6_first_2 = [\P ];
     @kc6_first_3 = [\W ];
     @kc6_first_4 = [\T ];
@@ -41,6 +41,12 @@ lookup kernCrnagehorizontaldansLatinlo {
     @kc6_first_8 = [\f ];
     @kc6_first_9 = [\U \Ugrave \Uacute \Ucircumflex \Udieresis ];
     @kc6_first_10 = [\O \Ograve \Oacute \Ocircumflex \Otilde \Odieresis ];
+    @kc6_first_11 = [\R \X ];
+    @kc6_first_12 = [\M ];
+    @kc6_first_13 = [\H ];
+    @kc6_first_14 = [\S ];
+    @kc6_first_15 = [\B ];
+    @kc6_first_16 = [\K ];
     @kc6_second_1 = [\A \Agrave \Aacute \Acircumflex \Atilde \Adieresis \AE ];
     @kc6_second_2 = [\T \V \W ];
     @kc6_second_3 = [\a \agrave \aacute \acircumflex \atilde \adieresis \ae ];
@@ -48,9 +54,13 @@ lookup kernCrnagehorizontaldansLatinlo {
 	\ocircumflex \otilde \odieresis ];
     @kc6_second_5 = [\m \n \p \r \x ];
     @kc6_second_6 = [\v \w ];
+    @kc6_second_7 = [\O \Ograve \Oacute \Ocircumflex \Otilde \Odieresis ];
+    @kc6_second_8 = [\U \Ugrave \Uacute \Ucircumflex \Udieresis ];
+    @kc6_second_9 = [\J ];
     pos @kc6_first_1 @kc6_second_1 -230;
     pos @kc6_first_1 @kc6_second_3 -120;
-    pos @kc6_first_1 @kc6_second_4 -120;
+    pos @kc6_first_1 @kc6_second_4 -160;
+    pos @kc6_first_1 @kc6_second_7 -100;
     pos @kc6_first_2 @kc6_second_1 -150;
     pos @kc6_first_2 @kc6_second_3 -70;
     pos @kc6_first_2 @kc6_second_4 -118;
@@ -71,6 +81,7 @@ lookup kernCrnagehorizontaldansLatinlo {
     pos @kc6_first_6 @kc6_second_2 -180;
     pos @kc6_first_6 @kc6_second_4 -66;
     pos @kc6_first_6 @kc6_second_6 -100;
+    pos @kc6_first_6 @kc6_second_8 -80;
     pos @kc6_first_7 @kc6_second_3 -70;
     pos @kc6_first_7 @kc6_second_4 -70;
     pos @kc6_first_8 @kc6_second_1 -70;
@@ -79,8 +90,23 @@ lookup kernCrnagehorizontaldansLatinlo {
     pos @kc6_first_8 @kc6_second_5 -40;
     pos @kc6_first_9 @kc6_second_1 -80;
     pos @kc6_first_10 @kc6_second_1 -80;
+    pos @kc6_first_10 @kc6_second_2 -50;
+    pos @kc6_first_10 @kc6_second_9 30;
+    pos @kc6_first_11 @kc6_second_7 -60;
+    pos @kc6_first_11 @kc6_second_8 -60;
+    pos @kc6_first_12 @kc6_second_3 -40;
+    pos @kc6_first_12 @kc6_second_4 -70;
+    pos @kc6_first_13 @kc6_second_4 -40;
+    pos @kc6_first_14 @kc6_second_1 -50;
+    pos @kc6_first_15 @kc6_second_9 50;
+    pos @kc6_first_16 @kc6_second_4 -60;
+    pos @kc6_first_16 @kc6_second_6 -188;
+    pos @kc6_first_16 @kc6_second_7 -132;
+    pos @kc6_first_16 @kc6_second_8 -106;
+    pos @kc6_first_16 @kc6_second_9 -23;
   subtable;
     pos \F \A -150;
+    pos \zero \zero 19;
 } kernCrnagehorizontaldansLatinlo;
 
 feature kern {
@@ -108,7 +134,8 @@ feature kern {
 	\Otilde \iacute \icircumflex \idieresis \Atilde \bar \cedilla \Ccedilla 
 	\ccedilla \ae \guillemotleft \guillemotright \braceleft \uniFB05 \quotesingle 
 	\equal \uni0080 \quotedbl \hyphen \underscore \less \greater \plus \AE \oe \dollar 
-	\braceright \exclamdown \divide \numbersign \quoteright \asterisk \OE ];
+	\braceright \exclamdown \divide \numbersign \quoteright \asterisk \OE 
+	\quotedblleft \quotedblright \percent ];
 @GDEF_Ligature = [\uniFB02 \egrave \aacute \eacute \igrave \uniFB01 \uniFB00 
 	\uniFB04 \uniFB03 ];
 

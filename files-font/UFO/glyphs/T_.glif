@@ -9,10 +9,22 @@
       <point x="216" y="8"/>
       <point x="309" y="22"/>
       <point x="309" y="85" type="curve" smooth="yes"/>
-      <point x="309" y="781,678" type="line"/>
-      <point x="78,4641" y="762,282"/>
+      <point x="309" y="798" type="line"/>
+      <point x="483" y="798" type="line"/>
+      <point x="483" y="85" type="line" smooth="yes"/>
+      <point x="483" y="21"/>
+      <point x="575" y="8"/>
+      <point x="575" y="8" type="curve"/>
+      <point x="575" y="0" type="line"/>
+      <point x="483" y="21"/>
+      <point x="310" y="19"/>
+    </contour>
+    <contour>
+      <point x="453" y="783" type="curve" smooth="yes"/>
+      <point x="341" y="783" type="line" smooth="yes"/>
+      <point x="84" y="783"/>
       <point x="18" y="536"/>
-      <point x="18" y="536" type="curve" smooth="yes"/>
+      <point x="18" y="536" type="curve"/>
       <point x="10" y="536" type="line"/>
       <point x="62" y="814" type="line"/>
       <point x="62" y="814"/>
@@ -24,15 +36,7 @@
       <point x="784" y="536" type="line"/>
       <point x="776" y="536" type="line"/>
       <point x="776" y="536"/>
-      <point x="715,186" y="763,59"/>
-      <point x="483" y="781,841" type="curve"/>
-      <point x="483" y="85" type="line" smooth="yes"/>
-      <point x="483" y="21"/>
-      <point x="575" y="8"/>
-      <point x="575" y="8" type="curve"/>
-      <point x="575" y="0" type="line"/>
-      <point x="483" y="21"/>
-      <point x="310" y="19"/>
+      <point x="710" y="783"/>
     </contour>
   </outline>
   <lib>
@@ -46,8 +50,8 @@
 	    <key>width</key>	    <integer>8</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>782</integer>
-	    <key>width</key>	    <integer>18</integer>
+	    <key>position</key>	    <integer>783</integer>
+	    <key>width</key>	    <integer>15</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>794</integer>
@@ -56,6 +60,12 @@
 	</array>
 	<key>vhints</key>
 	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>10</integer>
+	    <key>width</key>
+	    <integer>8</integer>
+	  </dict>
 	  <dict>
 	    <key>position</key>
 	    <integer>309</integer>
